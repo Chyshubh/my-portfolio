@@ -3,6 +3,7 @@ import Image from 'next/image'
 import React from 'react'
 import { motion } from "motion/react"
 
+// Define the Header component
 const Header = () => {
     return (
 
